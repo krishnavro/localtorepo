@@ -1,0 +1,1 @@
+I successfully added project from local to remote.
